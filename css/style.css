@@ -1,0 +1,36 @@
+p{
+	color: yellow;
+}
+#inicial{
+	color: green;
+}
+.uno{
+	color: blue;
+}
+
+#cuadro{
+	width: 200px;
+	height: 100px;
+	background: blue;
+	margin: 10px;
+}
+
+
+#recta{
+	width: 5px;
+	height: 400px;
+	background: blue;
+	margin: 55px;
+}
+
+
+#tablita{
+	text-align:center;
+	background-color: green;
+}
+#recta2{
+	width: 400px;
+	height: 5px;
+	background: blue;
+	margin: 55px;
+}
